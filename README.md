@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/drop32-logo.png" alt="D.R.O.P.32 — Wi-Fi in. USB out." width="680">
-</p>
+<img width="474" height="196" alt="logo" src="https://github.com/user-attachments/assets/225fb772-a6d8-429d-959c-cb191a89b383" />
 
 # D.R.O.P.32
 
@@ -18,11 +16,9 @@ Modern device ── Wi-Fi ──> ESP32-S3 ── Internal FAT or SD ── USB
 The offline computer receives a normal USB mass-storage device. D.R.O.P.32 does not bridge its Wi-Fi connection to USB.
 
 ## Screenshots
+<img width="1275" height="772" alt="dashboard" src="https://github.com/user-attachments/assets/da35f8d4-ac93-4ef9-b3d4-c4108d73a665" />
 
-<!-- Replace these comments after adding files to docs/images/ as described in docs/images/README.md. -->
-<!-- ![D.R.O.P.32 Dashboard](docs/images/dashboard.png) -->
-<!-- ![Browser file transfer](docs/images/transfer.png) -->
-<!-- ![USB drive on a computer](docs/images/usb-drive.png) -->
+<img width="1260" height="751" alt="transfer" src="https://github.com/user-attachments/assets/ea15fc6c-5f4b-4e8c-8ccd-3be7b754db3f" />
 
 ## Features
 
