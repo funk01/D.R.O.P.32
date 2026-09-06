@@ -19,10 +19,7 @@ The offline computer receives a normal USB mass-storage device. D.R.O.P.32 does 
 
 ## Screenshots
 
-<!-- Replace these comments after adding files to docs/images/ as described in docs/images/README.md. -->
-<!-- ![D.R.O.P.32 Dashboard](docs/images/dashboard.png) -->
-<!-- ![Browser file transfer](docs/images/transfer.png) -->
-<!-- ![USB drive on a computer](docs/images/usb-drive.png) -->
+<img width="1275" height="772" alt="dashboard" src="https://github.com/user-attachments/assets/5d85d16c-9547-4114-8ebd-b2cd227cfa10" />
 
 ## Features
 
