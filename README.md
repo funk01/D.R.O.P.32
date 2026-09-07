@@ -3,6 +3,7 @@
 # D.R.O.P.32
 
 **Wi-Fi in. USB out.**
+A Data Relay for Offline PCs — powered by ESP32.
 
 D.R.O.P.32 transfers files from a modern phone, tablet or computer to an offline computer without connecting that destination machine to a LAN or the Internet. An ESP32-S3 receives files through a browser, stores them, and exposes the same files as a USB drive.
 
