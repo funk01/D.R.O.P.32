@@ -6,7 +6,7 @@
 
 D.R.O.P.32 transfers files from a modern phone, tablet or computer to an offline computer without connecting that destination machine to a LAN or the Internet. An ESP32-S3 receives files through a browser, stores them, and exposes the same files as a USB drive.
 
-Perfect for older 95/XP/2000 or other retro PCs with no protection from modern threats, because the lack updates, but now file transfer from modern PC to retro PC is simple and secure.
+Perfect for older 95/XP/2000 or other retro PCs with no protection from modern threats, because they lack updates, but now file transfer from modern PC to retro PC is simple and secure.
 
 For large files and complete folder collections, connect an SD card to the ESP32-S3 and select **SD CARD** on the Dashboard. Internal flash is convenient for smaller transfers; SD storage offers substantially more capacity and is the recommended setup for regular use.
 
